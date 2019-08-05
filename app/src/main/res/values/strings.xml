@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Grid Layout Demo</string>
+
+
+    <string name="title_rock">Rock</string>
+    <string name="title_pop">Pop</string>
+    <string name="title_country">Country</string>
+    <string name="title_alternative">Alternativa</string>
+    <string name="title_electronic">Electrónica</string>
+    <string name="title_reggae">Reggae</string>
+
+</resources>
